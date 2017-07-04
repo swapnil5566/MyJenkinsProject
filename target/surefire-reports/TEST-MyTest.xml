@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="MyTest" time="0.004" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="APPLOGSU" value="C:\Users\A615484\AppData\Local\ManagedPC\Applications"/>
+    <property name="LOGONSERVER" value="\\INPUN999000ADS"/>
+    <property name="LOGSTASH_HOME" value="C:\Softwares\Logstash\logstash-1.5.4"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\mev\java\jdk\jdk1.8.0_45_x64\jre"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="INCLUDE" value="C:\PROGRA~1\IBM\SQLLIB\INCLUDE;C:\PROGRA~1\IBM\SQLLIB\LIB"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\PowerShell\Modules\;C:\Program Files\WindowsPowerShell\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="SiteServer" value="emea.it-solutions.myatos.net"/>
+    <property name="USERDOMAIN" value="WW930"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="AO_HOME" value="C:\AO"/>
+    <property name="JOB_NAME" value="MyProject"/>
+    <property name="COMPUTERNAME" value="MC0X7MWC"/>
+    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="LogPath" value="C:\Windows\Logs\ManagedPC"/>
+    <property name="user.name" value="a615484"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 69 Stepping 1, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\A615484\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/MyProject/4/display/redirect?page=changes"/>
+    <property name="ATOS_HOME" value="C:\AO"/>
+    <property name="SMSSITECODE" value="Q86"/>
+    <property name="LIB" value=";C:\PROGRA~1\IBM\SQLLIB\LIB"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-MyProject-4"/>
+    <property name="windows_tracing_flags" value="3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="WRAPPER_HOME" value="C:\Softwares\wrapper-windows-x86-64-3.5.27-pro"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main C:\Softwares\apache-maven-3.3.1 C:\Users\A615484\.jenkins\war\WEB-INF\lib\remoting-3.10.jar C:\Users\A615484\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.11.jar C:\Users\A615484\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.11.jar 50791"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="7f3c95655f863e9b"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\mev\java\jdk\jdk1.8.0_45_x64/bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MongoDB\Server\3.0\bin;C:\Softwares\nssm-2.24\win64;C:\Program Files\TortoiseSVN\bin;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\MongoDB\Server\3.4\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\nodejs\;C:\MEV\java\jdk\jdk1.8.0_45_x64;C:\mev\java\apache-maven-3.3.3;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\mev\Git\cmd;C:\mev\java\jdk\jdk1.8.0_45_x64\bin;C:\mev\java\apache-maven-3.3.3\bin;C:\Program Files (x86)\Git\cmd;C:\Users\A615484\AppData\Roaming\npm"/>
+    <property name="java.io.tmpdir" value="C:\Users\A615484\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\A615484\AppData\Roaming"/>
+    <property name="DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/MyProject/4/"/>
+    <property name="M2_HOME" value="C:\Softwares\apache-maven-3.3.1"/>
+    <property name="=C:" value="C:\Softwares"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="7f3c95655f863e9b"/>
+    <property name="Mosaic_SWprofile" value="\\ww930.my-it-solutions.net\DFS\LSDP\SWICONFIG"/>
+    <property name="MAVEN_HOME" value="C:\Softwares\apache-maven-3.3.1"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\A615484\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.11.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="Applogsc" value="C:\Windows\Logs\ManagedPC\Applications"/>
+    <property name="HOMEPATH" value="\Users\A615484"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="maven3.interceptor" value="C:\Users\A615484\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.11.jar"/>
+    <property name="java.library.path" value="C:\mev\java\jdk\jdk1.8.0_45_x64\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Softwares\apache-maven-3.3.1/bin;C:\mev\java\jdk\jdk1.8.0_45_x64/bin;C:\mev\java\jdk\jdk1.8.0_45_x64/bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MongoDB\Server\3.0\bin;C:\Softwares\nssm-2.24\win64;C:\Program Files\TortoiseSVN\bin;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\MongoDB\Server\3.4\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\nodejs\;C:\MEV\java\jdk\jdk1.8.0_45_x64;C:\mev\java\apache-maven-3.3.3;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\mev\Git\cmd;C:\mev\java\jdk\jdk1.8.0_45_x64\bin;C:\mev\java\apache-maven-3.3.3\bin;C:\Program Files (x86)\Git\cmd;C:\Users\A615484\AppData\Roaming\npm;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="jenkins"/>
+    <property name="POM_ARTIFACTID" value="com.jenkins"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/MyProject/"/>
+    <property name="ANT_HOME" value="C:\mev\java\apache-ant-1.9.4"/>
+    <property name="GRAILS_HOME" value="C:\Softwares\Grails\grails-2.3.11"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/MyProject/4/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\A615484\.jenkins"/>
+    <property name="BUILD_ID" value="4"/>
+    <property name="TEMP" value="C:\Users\A615484\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\mev\java\jdk\jdk1.8.0_45_x64\jre\bin"/>
+    <property name="M2" value="C:\mev\java\apache-maven-3.3.3\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="4501"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="VSEDEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="HUDSON_HOME" value="C:\Users\A615484\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Softwares\apache-maven-3.3.1/bin"/>
+    <property name="CONTINUUM_HOME" value="C:\Softwares\Continuum\apache-continuum-1.4.2"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\mev\java\jdk\jdk1.8.0_45_x64"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\A615484"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/MyProject/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\A615484"/>
+    <property name="USERNAME" value="a615484"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERDNSDOMAIN" value="WW930.MY-IT-SOLUTIONS.NET"/>
+    <property name="MEMBRANE_HOME" value="C:\Softwares\membrane-service-proxy-4.0.18"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="SONAR_RUNNER_HOME" value="C:\Softwares\sonar-runner-2.4"/>
+    <property name="user.dir" value="C:\Personal\MyJenkinsProject"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\A615484\AppData\Local\Temp"/>
+    <property name="UATDATA" value="C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.class.path" value="C:\Users\A615484\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-agent-1.11.jar;C:\Softwares\apache-maven-3.3.1\boot\plexus-classworlds-2.5.2.jar;C:\Softwares\apache-maven-3.3.1/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="MAVEN_OPTS" value="-Xms256m -Xmx512m"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\A615484\.jenkins\workspace\MyProject"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_45-b14"/>
+    <property name="sun.boot.class.path" value="C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\resources.jar;C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\rt.jar;C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\sunrsasign.jar;C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\jsse.jar;C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\jce.jar;C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\charsets.jar;C:\mev\java\jdk\jdk1.8.0_45_x64\jre\lib\jfr.jar;C:\mev\java\jdk\jdk1.8.0_45_x64\jre\classes"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="Desktop" value="C:\Users\A615484\Desktop"/>
+    <property name="PATH+JDK" value="C:\mev\java\jdk\jdk1.8.0_45_x64/bin"/>
+    <property name="user.country" value="IN"/>
+    <property name="=ExitCode" value="00000082"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Softwares\apache-maven-3.3.1"/>
+    <property name="JOB_BASE_NAME" value="MyProject"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="com.jenkins"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="MyTest" name="testMultiply" time="0.004"/>
+  <testcase classname="MyTest" name="testExceptionIsThrown" time="0"/>
+</testsuite>
